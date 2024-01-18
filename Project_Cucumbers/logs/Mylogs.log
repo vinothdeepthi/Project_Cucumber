@@ -1,0 +1,977 @@
+[INFO ] 2024-01-12 12:15:12.871 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 12:15:12.879 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 12:15:12.880 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 12:15:12.880 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 12:15:12.880 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 12:15:12.880 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 12:15:14.616 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 12:15:14.691 [main] Utils - Collections_Products Louching The Application
+[INFO ] 2024-01-12 12:15:19.753 [main] Utils - Mouse Move Operation Using To Perform An Elementa And Click Thet Element of Collection  
+[INFO ] 2024-01-12 12:15:20.092 [main] Utils - to Select The Collection category
+[INFO ] 2024-01-12 12:15:22.126 [main] Utils - Click On the Collections_Products Filter Button
+[INFO ] 2024-01-12 12:15:22.287 [main] Utils - Entering The maximum Price Range Of Collections_Products
+[INFO ] 2024-01-12 12:15:24.979 [main] Utils - Click On the Collections_Products Filter Button
+[INFO ] 2024-01-12 12:15:25.180 [main] Utils - click On Collections_Products Size 
+[INFO ] 2024-01-12 12:15:25.455 [main] Utils - to Select The Collections_Products Size Range
+[INFO ] 2024-01-12 12:15:27.666 [main] Utils - Click On the Collections_Products Filter Button
+[INFO ] 2024-01-12 12:15:27.897 [main] Utils - click On The Collections_Products Brand 
+[INFO ] 2024-01-12 12:15:28.220 [main] Utils - Select The Collections_Products Brand
+[INFO ] 2024-01-12 12:15:30.483 [main] Utils - Click On The Collections_Products Filter Dropdown
+[INFO ] 2024-01-12 12:15:30.653 [main] Utils - Select The Collections_Products Filter Dropdown Options
+[INFO ] 2024-01-12 12:15:30.766 [main] Utils - Select The Collection_Product
+[INFO ] 2024-01-12 12:15:34.204 [main] Utils - Clear The Collections_Products Quantity
+[INFO ] 2024-01-12 12:15:34.364 [main] Utils - Entering The Collections_Products Product Quantity
+[INFO ] 2024-01-12 12:15:34.441 [main] Utils - Click On Collections_Products Add To Cart Button
+[INFO ] 2024-01-12 12:15:37.568 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 12:15:39.463 [main] Utils - To Verify Is Selected Collections_Product Added Into The Cart page Correctly
+[INFO ] 2024-01-12 12:15:39.538 [main] Utils - To Verify The Collections_Products Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 12:15:39.595 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 12:15:40.008 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 12:15:40.010 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 12:15:40.010 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 12:15:40.011 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 12:15:40.011 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 12:15:40.011 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 12:15:41.185 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 12:15:41.193 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 12:15:47.468 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 12:15:47.841 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 12:15:52.243 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 12:15:52.704 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 12:15:55.058 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 12:15:58.217 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 12:15:58.967 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 12:16:01.348 [main] Utils - Click On the Mens_Product Filter Button
+[ERROR] 2024-01-12 12:16:02.580 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 12:16:03.097 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 12:16:03.346 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 12:16:03.348 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 12:16:03.349 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 12:16:03.350 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 12:16:03.350 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 12:16:03.350 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 12:16:04.407 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 12:16:04.413 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 12:16:12.911 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 12:16:13.188 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 12:16:18.932 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 12:16:19.179 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 12:16:21.409 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 12:16:21.864 [main] Utils - click On The WoMens_Products Size 
+[INFO ] 2024-01-12 12:16:22.711 [main] Utils - to Select The WoMens_Products Size Range
+[INFO ] 2024-01-12 12:16:24.970 [main] Utils - Click On the WoMens_Products Filter Button
+[ERROR] 2024-01-12 12:16:26.111 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 12:16:26.460 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 12:16:26.701 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 12:16:26.702 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 12:16:26.703 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 12:16:26.703 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 12:16:26.703 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 12:16:26.703 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 12:16:27.682 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 12:16:27.694 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 12:16:36.987 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 12:16:37.458 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 12:16:37.612 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 12:16:40.213 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 12:16:41.820 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 12:16:42.174 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 12:16:42.360 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 12:16:42.440 [main] Utils - Click On SearchProduct Add To Cart Button
+[INFO ] 2024-01-12 12:16:45.176 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 12:16:46.539 [main] Utils - To Verify Is Selected SearchProduct Added Into The Cart page Correctly
+[INFO ] 2024-01-12 12:16:46.617 [main] Utils - To Verify The SearchProduct Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 12:16:46.664 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 12:16:46.893 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 12:16:46.893 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 12:16:46.894 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 12:16:46.894 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 12:16:46.894 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 12:16:46.894 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 12:16:47.863 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 12:16:47.869 [main] Utils -  Registration Louching The Application
+[INFO ] 2024-01-12 12:16:58.090 [main] Utils - Click On The Registration Account Logo
+[INFO ] 2024-01-12 12:17:00.201 [main] Utils - click on The Registration Register Link
+[INFO ] 2024-01-12 12:17:01.359 [main] Utils - Entering The Registration FistName
+[INFO ] 2024-01-12 12:17:01.506 [main] Utils - Entering The Registration LastName
+[INFO ] 2024-01-12 12:17:01.634 [main] Utils - Entering The Registration EmailId
+[INFO ] 2024-01-12 12:17:01.722 [main] Utils - Entering The Registration Password
+[INFO ] 2024-01-12 12:17:01.975 [main] Utils - click Onr register Button
+[INFO ] 2024-01-12 12:17:12.525 [main] Utils - Validating The Registration Profile Name 
+[INFO ] 2024-01-12 12:17:12.598 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 15:40:53.345 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 15:40:53.380 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 15:40:53.381 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 15:40:53.381 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 15:40:53.381 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 15:40:53.381 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 15:40:54.815 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 15:40:54.863 [main] Utils - Collections_Products Louching The Application
+[INFO ] 2024-01-12 15:41:00.957 [main] Utils - Mouse Move Operation Using To Perform An Elementa And Click Thet Element of Collection  
+[ERROR] 2024-01-12 15:41:00.978 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-12 15:41:01.882 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 15:42:13.926 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 15:42:13.958 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 15:42:13.958 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 15:42:13.959 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 15:42:13.959 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 15:42:13.959 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 15:42:15.548 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 15:42:15.606 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 15:42:20.977 [main] Utils - Click on the Search Icon
+[ERROR] 2024-01-12 15:42:20.985 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 15:42:21.568 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 15:45:49.634 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 15:45:49.686 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 15:45:49.686 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 15:45:49.686 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 15:45:49.687 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 15:45:49.687 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 15:45:51.187 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 15:45:51.249 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 15:45:56.515 [main] Utils - Click on the Search Icon
+[ERROR] 2024-01-12 15:45:56.523 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 15:45:57.455 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 15:48:29.292 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 15:48:29.302 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 15:48:29.302 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 15:48:29.303 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 15:48:29.303 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 15:48:29.303 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 15:48:30.953 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 15:48:31.020 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 15:48:37.010 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 15:48:37.278 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 15:48:37.392 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 15:48:39.087 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 15:48:40.864 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 15:48:41.767 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 15:48:41.851 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 15:48:41.939 [main] Utils - Click On SearchProduct Add To Cart Button
+[ERROR] 2024-01-12 15:48:42.047 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 15:48:42.364 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 15:50:37.061 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 15:50:37.066 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 15:50:37.066 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 15:50:37.067 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 15:50:37.067 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 15:50:37.067 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 15:50:38.565 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 15:50:38.586 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 15:50:43.748 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 15:50:44.051 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 15:50:44.165 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 15:50:45.919 [main] Utils - Select The SearchProduct
+[ERROR] 2024-01-12 15:50:45.928 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 15:50:46.406 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 15:52:21.317 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 15:52:21.326 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 15:52:21.326 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 15:52:21.326 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 15:52:21.327 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 15:52:21.327 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 15:52:22.774 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 15:52:22.849 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 15:52:28.223 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 15:52:28.571 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 15:52:28.691 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 15:52:30.435 [main] Utils - Select The SearchProduct
+[ERROR] 2024-01-12 15:52:30.447 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 15:52:30.866 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 15:54:11.583 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 15:54:11.591 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 15:54:11.592 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 15:54:11.592 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 15:54:11.592 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 15:54:11.592 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 15:54:13.123 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 15:54:13.195 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 15:54:18.252 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 15:54:18.572 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 15:54:18.630 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 15:54:20.366 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 15:54:21.453 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 15:54:22.293 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 15:54:22.498 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 15:54:22.591 [main] Utils - Click On SearchProduct Add To Cart Button
+[ERROR] 2024-01-12 15:54:22.708 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 15:54:23.076 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:01:48.346 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:01:48.353 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:01:48.353 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:01:48.354 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:01:48.354 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:01:48.354 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:01:50.032 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:01:50.081 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:01:56.042 [main] Utils - Click on the Search Icon
+[ERROR] 2024-01-12 16:01:56.051 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 16:01:57.070 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:07:55.682 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:07:55.692 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:07:55.692 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:07:55.694 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:07:55.694 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:07:55.695 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:07:57.417 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:07:57.457 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:08:15.050 [main] Utils - Click on the Search Icon
+[ERROR] 2024-01-12 16:08:15.059 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 16:08:15.753 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:11:16.369 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:11:16.378 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:11:16.379 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:11:16.379 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:11:16.379 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:11:16.380 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:11:18.014 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:11:18.046 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:11:36.676 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 16:11:36.895 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 16:11:37.024 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 16:11:42.829 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 16:11:48.724 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 16:11:48.933 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 16:11:49.022 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 16:11:49.093 [main] Utils - Click On SearchProduct Add To Cart Button
+[ERROR] 2024-01-12 16:11:51.259 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 16:11:51.620 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:13:27.495 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:13:27.508 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:13:27.508 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:13:27.509 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:13:27.509 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:13:27.509 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:13:29.163 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:13:29.220 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:13:35.528 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 16:13:35.965 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 16:13:36.162 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 16:13:38.607 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 16:13:42.761 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 16:13:42.938 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 16:13:43.014 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 16:13:43.074 [main] Utils - Click On SearchProduct Add To Cart Button
+[ERROR] 2024-01-12 16:13:45.189 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 16:13:46.240 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:15:35.097 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:15:35.109 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:15:35.110 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:15:35.110 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:15:35.110 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:15:35.110 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:15:36.839 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:15:36.892 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:15:45.158 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 16:15:45.453 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 16:15:45.579 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 16:15:49.263 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 16:15:58.938 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 16:15:59.126 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 16:15:59.201 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 16:15:59.260 [main] Utils - Click On SearchProduct Add To Cart Button
+[INFO ] 2024-01-12 16:16:01.803 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 16:16:02.018 [main] Utils - To Verify Is Selected Collections_Product Added Into The Cart page Correctly
+[INFO ] 2024-01-12 16:16:22.109 [main] Utils - To Verify The Collections_Products Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 16:16:26.553 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:17:24.124 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:17:24.132 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:17:24.133 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:17:24.133 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:17:24.133 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:17:24.133 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:17:25.745 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:17:25.822 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:17:33.517 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 16:17:33.875 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 16:17:33.981 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 16:17:35.873 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 16:17:39.576 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 16:17:39.732 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 16:17:39.782 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 16:17:39.973 [main] Utils - Click On SearchProduct Add To Cart Button
+[INFO ] 2024-01-12 16:17:42.287 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 16:17:42.445 [main] Utils - To Verify Is Selected Collections_Product Added Into The Cart page Correctly
+[INFO ] 2024-01-12 16:18:02.512 [main] Utils - To Verify The Collections_Products Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 16:18:11.762 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:18:54.883 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:18:54.891 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:18:54.891 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:18:54.892 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:18:54.892 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:18:54.892 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:18:56.402 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:18:56.480 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:19:01.822 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:19:02.077 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:19:05.775 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:19:07.193 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:19:09.781 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:19:12.608 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 16:19:13.419 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 16:19:15.658 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:19:18.097 [main] Utils - click On The Mens_Product Brand 
+[INFO ] 2024-01-12 16:19:18.353 [main] Utils - Select The Mens_Product Brand
+[INFO ] 2024-01-12 16:19:20.682 [main] Utils - Select The Product
+[ERROR] 2024-01-12 16:19:22.105 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 16:19:22.592 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:19:22.618 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:19:22.620 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:19:22.620 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:19:22.623 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:19:22.623 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:19:22.623 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:19:23.611 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:19:23.617 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:19:29.211 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:19:29.994 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:19:37.466 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:19:37.668 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:19:39.948 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:19:40.609 [main] Utils - click On The WoMens_Products Size 
+[INFO ] 2024-01-12 16:19:41.060 [main] Utils - to Select The WoMens_Products Size Range
+[INFO ] 2024-01-12 16:19:43.330 [main] Utils - Click On the WoMens_Products Filter Button
+[ERROR] 2024-01-12 16:19:43.877 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:19:44.315 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:23:14.664 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:23:14.675 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:23:14.675 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:23:14.677 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:23:14.677 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:23:14.677 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:23:16.351 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:23:16.418 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:23:21.537 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:23:21.780 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:23:24.899 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:23:26.400 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:23:28.804 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:23:31.244 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 16:23:31.971 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 16:23:34.233 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:23:36.511 [main] Utils - click On The Mens_Product Brand 
+[INFO ] 2024-01-12 16:23:36.767 [main] Utils - Select The Mens_Product Brand
+[INFO ] 2024-01-12 16:23:39.108 [main] Utils - Select The Product
+[ERROR] 2024-01-12 16:23:40.492 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 16:23:41.033 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:23:41.057 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:23:41.058 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:23:41.058 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:23:41.059 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:23:41.059 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:23:41.059 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:23:42.002 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:23:42.030 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:23:47.533 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:23:47.838 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:23:50.662 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:23:51.365 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:23:53.665 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:23:54.050 [main] Utils - click On The WoMens_Products Size 
+[ERROR] 2024-01-12 16:24:24.357 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:24:24.812 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:29:32.142 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:29:32.151 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:29:32.151 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:29:32.151 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:29:32.151 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:29:32.152 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:29:33.570 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:29:33.624 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:29:40.684 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:29:40.989 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:29:45.248 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:29:45.671 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:29:47.984 [main] Utils - Click On the Mens_Product Filter Button
+[ERROR] 2024-01-12 16:29:48.826 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 16:29:49.390 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:29:49.436 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:29:49.438 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:29:49.438 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:29:49.439 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:29:49.439 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:29:49.439 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:29:50.718 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:29:50.726 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:29:57.265 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:29:58.284 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:30:02.633 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:30:03.203 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:30:05.623 [main] Utils - Click On the WoMens_Products Filter Button
+[ERROR] 2024-01-12 16:30:07.057 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:30:07.476 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:34:12.388 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:34:12.400 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:34:12.400 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:34:12.400 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:34:12.401 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:34:12.401 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:34:14.216 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:34:14.247 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:34:20.563 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:34:21.018 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:34:25.026 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:34:26.198 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:34:29.680 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:34:31.875 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 16:34:32.600 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 16:34:35.935 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:34:37.914 [main] Utils - click On The Mens_Product Brand 
+[INFO ] 2024-01-12 16:34:38.223 [main] Utils - Select The Mens_Product Brand
+[INFO ] 2024-01-12 16:34:41.590 [main] Utils - Select The Product
+[INFO ] 2024-01-12 16:34:46.126 [main] Utils - Click On Mens_Products Add To Cart Button
+[INFO ] 2024-01-12 16:34:46.127 [main] Utils - Clear The Product Quantity
+[INFO ] 2024-01-12 16:34:46.477 [main] Utils - Entering The Product Quantity
+[INFO ] 2024-01-12 16:34:49.913 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 16:34:51.350 [main] Utils - To Verify Is Selected Collections_Product Added Into The Cart page Correctly
+[INFO ] 2024-01-12 16:34:51.405 [main] Utils - To Verify The Collections_Products Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 16:34:51.461 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:34:51.494 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:34:51.495 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:34:51.495 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:34:51.496 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:34:51.496 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:34:51.496 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:34:52.632 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:34:52.639 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:35:00.469 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:35:01.510 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:35:05.496 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:35:05.987 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:35:09.642 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:35:09.808 [main] Utils - click On The WoMens_Products Size 
+[INFO ] 2024-01-12 16:35:12.961 [main] Utils - to Select The WoMens_Products Size Range
+[INFO ] 2024-01-12 16:35:16.245 [main] Utils - Click On the WoMens_Products Filter Button
+[ERROR] 2024-01-12 16:35:17.409 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:35:17.794 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:36:41.690 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:36:41.700 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:36:41.700 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:36:41.701 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:36:41.701 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:36:41.701 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:36:43.432 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:36:43.478 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:36:43.983 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:36:50.135 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:36:53.971 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:36:55.472 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:36:58.963 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:37:01.982 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 16:37:02.816 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 16:37:06.127 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:37:08.330 [main] Utils - click On The Mens_Product Brand 
+[INFO ] 2024-01-12 16:37:08.609 [main] Utils - Select The Mens_Product Brand
+[INFO ] 2024-01-12 16:37:11.997 [main] Utils - Select The Product
+[INFO ] 2024-01-12 16:37:16.696 [main] Utils - Click On Mens_Products Add To Cart Button
+[INFO ] 2024-01-12 16:37:16.697 [main] Utils - Clear The Product Quantity
+[INFO ] 2024-01-12 16:37:16.942 [main] Utils - Entering The Product Quantity
+[INFO ] 2024-01-12 16:37:20.456 [main] Utils - Click On The Cart Button
+[ERROR] 2024-01-12 16:37:21.622 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 16:37:22.010 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:37:22.038 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:37:22.039 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:37:22.039 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:37:22.040 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:37:22.040 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:37:22.040 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:37:23.125 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:37:23.129 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:37:37.741 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:37:38.042 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:38:06.463 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:38:06.773 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:38:10.029 [main] Utils - Click On the WoMens_Products Filter Button
+[ERROR] 2024-01-12 16:38:11.122 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:38:11.387 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:40:00.321 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:40:00.332 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:40:00.332 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:40:00.333 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:40:00.333 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:40:00.333 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:40:01.837 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:40:01.910 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:40:09.905 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:40:10.188 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:40:15.186 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:40:15.673 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:40:18.981 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:40:21.446 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 16:40:22.171 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 16:40:25.451 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:40:27.233 [main] Utils - click On The Mens_Product Brand 
+[INFO ] 2024-01-12 16:40:27.652 [main] Utils - Select The Mens_Product Brand
+[INFO ] 2024-01-12 16:40:30.995 [main] Utils - Select The Product
+[INFO ] 2024-01-12 16:40:38.983 [main] Utils - Click On Mens_Products Add To Cart Button
+[INFO ] 2024-01-12 16:40:38.984 [main] Utils - Clear The Product Quantity
+[INFO ] 2024-01-12 16:40:39.101 [main] Utils - Entering The Product Quantity
+[INFO ] 2024-01-12 16:40:43.016 [main] Utils - Click On The Cart Button
+[ERROR] 2024-01-12 16:40:44.141 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 16:40:44.531 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:40:44.577 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:40:44.579 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:40:44.579 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:40:44.582 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:40:44.582 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:40:44.582 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:40:45.813 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:40:45.829 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:40:54.513 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:40:54.948 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:40:57.607 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:40:58.284 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:41:01.692 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:41:01.852 [main] Utils - click On The WoMens_Products Size 
+[INFO ] 2024-01-12 16:41:05.024 [main] Utils - to Select The WoMens_Products Size Range
+[INFO ] 2024-01-12 16:41:08.202 [main] Utils - Click On the WoMens_Products Filter Button
+[ERROR] 2024-01-12 16:41:09.331 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:41:09.693 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:46:43.004 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:46:43.013 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:46:43.013 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:46:43.014 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:46:43.014 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:46:43.014 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:46:44.885 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:46:44.961 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:46:50.617 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:46:50.984 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:46:54.730 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:46:56.008 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:46:59.483 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:47:01.524 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 16:47:02.305 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 16:47:05.609 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:47:07.181 [main] Utils - click On The Mens_Product Brand 
+[INFO ] 2024-01-12 16:47:07.495 [main] Utils - Select The Mens_Product Brand
+[INFO ] 2024-01-12 16:47:10.832 [main] Utils - Select The Product
+[INFO ] 2024-01-12 16:47:15.562 [main] Utils - Click On Mens_Products Add To Cart Button
+[INFO ] 2024-01-12 16:47:15.563 [main] Utils - Clear The Product Quantity
+[INFO ] 2024-01-12 16:47:15.698 [main] Utils - Entering The Product Quantity
+[INFO ] 2024-01-12 16:47:19.083 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 16:47:20.219 [main] Utils - To Verify Is Selected Collections_Product Added Into The Cart page Correctly
+[INFO ] 2024-01-12 16:47:20.268 [main] Utils - To Verify The Collections_Products Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 16:47:20.329 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:47:20.348 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:47:20.349 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:47:20.349 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:47:20.350 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:47:20.350 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:47:20.350 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:47:21.393 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:47:21.398 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:47:29.309 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:47:30.432 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:47:33.913 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:47:34.332 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:47:37.763 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:47:37.943 [main] Utils - click On The WoMens_Products Size 
+[INFO ] 2024-01-12 16:47:41.114 [main] Utils - to Select The WoMens_Products Size Range
+[INFO ] 2024-01-12 16:47:44.311 [main] Utils - Click On the WoMens_Products Filter Button
+[ERROR] 2024-01-12 16:47:45.523 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:47:45.944 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:49:19.605 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:49:19.614 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:49:19.614 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:49:19.615 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:49:19.615 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:49:19.615 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:49:20.996 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:49:21.065 [main] Utils - Collections_Products Louching The Application
+[INFO ] 2024-01-12 16:49:26.243 [main] Utils - Mouse Move Operation Using To Perform An Elementa And Click Thet Element of Collection  
+[INFO ] 2024-01-12 16:49:26.469 [main] Utils - to Select The Collection category
+[INFO ] 2024-01-12 16:49:27.211 [main] Utils - Click On the Collections_Products Filter Button
+[ERROR] 2024-01-12 16:49:28.041 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-12 16:49:28.065 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:49:28.113 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:49:28.114 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:49:28.114 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:49:28.115 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:49:28.115 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:49:28.115 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:49:29.261 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:49:29.273 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:49:30.668 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[ERROR] 2024-01-12 16:49:30.725 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 16:49:30.734 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:49:30.757 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:49:30.760 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:49:30.760 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:49:30.760 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:49:30.760 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:49:30.760 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:49:31.902 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:49:31.916 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:49:32.812 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[ERROR] 2024-01-12 16:49:32.868 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-12 16:49:32.881 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:49:32.897 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:49:32.898 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:49:32.898 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:49:32.899 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:49:32.899 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:49:32.899 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:49:33.955 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:49:33.968 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:49:35.163 [main] Utils - Click on the Search Icon
+[ERROR] 2024-01-12 16:49:35.173 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-12 16:49:35.212 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:49:35.226 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:49:35.227 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:49:35.227 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:49:35.228 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:49:35.228 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:49:35.228 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:49:36.308 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:49:36.312 [main] Utils -  Registration Louching The Application
+[INFO ] 2024-01-12 16:49:37.278 [main] Utils - Click On The Registration Account Logo
+[ERROR] 2024-01-12 16:49:37.287 [main] Commons - failed The test CaseVerify User Able To Register The koovs Application
+[INFO ] 2024-01-12 16:49:37.312 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:50:33.666 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:50:33.675 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:50:33.675 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:50:33.676 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:50:33.676 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:50:33.676 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:50:35.334 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:50:35.405 [main] Utils - Collections_Products Louching The Application
+[INFO ] 2024-01-12 16:51:03.048 [main] Utils - Mouse Move Operation Using To Perform An Elementa And Click Thet Element of Collection  
+[INFO ] 2024-01-12 16:51:03.307 [main] Utils - to Select The Collection category
+[INFO ] 2024-01-12 16:51:05.624 [main] Utils - Click On the Collections_Products Filter Button
+[INFO ] 2024-01-12 16:51:06.616 [main] Utils - Entering The maximum Price Range Of Collections_Products
+[INFO ] 2024-01-12 16:51:08.934 [main] Utils - Click On the Collections_Products Filter Button
+[INFO ] 2024-01-12 16:51:09.199 [main] Utils - click On Collections_Products Size 
+[INFO ] 2024-01-12 16:51:09.543 [main] Utils - to Select The Collections_Products Size Range
+[INFO ] 2024-01-12 16:51:12.097 [main] Utils - Click On the Collections_Products Filter Button
+[ERROR] 2024-01-12 16:51:13.209 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-12 16:51:13.652 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:51:13.679 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:51:13.680 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:51:13.680 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:51:13.681 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:51:13.681 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:51:13.681 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:51:14.668 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:51:14.673 [main] Utils - Mens_Product Louching The Application
+[INFO ] 2024-01-12 16:51:23.843 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element of Mens_Product 
+[INFO ] 2024-01-12 16:51:24.869 [main] Utils - to Select The Mens category
+[INFO ] 2024-01-12 16:51:30.876 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:51:32.899 [main] Utils - Entering The Mens_Product maximum Price Range
+[INFO ] 2024-01-12 16:51:36.235 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:51:39.152 [main] Utils - click On The Mens_Product Size 
+[INFO ] 2024-01-12 16:51:39.887 [main] Utils - to Select The Mens_Product Size Range
+[INFO ] 2024-01-12 16:51:43.306 [main] Utils - Click On the Mens_Product Filter Button
+[INFO ] 2024-01-12 16:51:45.722 [main] Utils - click On The Mens_Product Brand 
+[INFO ] 2024-01-12 16:51:46.074 [main] Utils - Select The Mens_Product Brand
+[INFO ] 2024-01-12 16:51:49.489 [main] Utils - Select The Product
+[INFO ] 2024-01-12 16:51:53.946 [main] Utils - Click On Mens_Products Add To Cart Button
+[INFO ] 2024-01-12 16:51:53.947 [main] Utils - Clear The Product Quantity
+[INFO ] 2024-01-12 16:51:54.143 [main] Utils - Entering The Product Quantity
+[INFO ] 2024-01-12 16:51:57.545 [main] Utils - Click On The Cart Button
+[ERROR] 2024-01-12 16:51:58.696 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-12 16:51:59.048 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:51:59.066 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:51:59.067 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:51:59.067 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:51:59.071 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:51:59.071 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:51:59.071 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:52:00.872 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:52:00.876 [main] Utils - WoMens_Products Louching The Application
+[INFO ] 2024-01-12 16:52:33.413 [main] Utils - Mouse Move Operation Using To Perfor An Elementa And Click Thet Element Of WoMens_Products 
+[INFO ] 2024-01-12 16:52:34.071 [main] Utils - To Select The Womens category
+[INFO ] 2024-01-12 16:52:39.637 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:52:40.307 [main] Utils - Entering The WoMens_Products maximum Price Range
+[INFO ] 2024-01-12 16:52:43.468 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:52:43.638 [main] Utils - click On The WoMens_Products Size 
+[INFO ] 2024-01-12 16:52:46.787 [main] Utils - to Select The WoMens_Products Size Range
+[INFO ] 2024-01-12 16:52:49.989 [main] Utils - Click On the WoMens_Products Filter Button
+[INFO ] 2024-01-12 16:52:50.269 [main] Utils - click On The WoMens_Products Brand 
+[INFO ] 2024-01-12 16:52:50.541 [main] Utils - Select The WoMens_Products Brand
+[INFO ] 2024-01-12 16:52:53.723 [main] Utils - Select The Product
+[INFO ] 2024-01-12 16:52:59.402 [main] Utils - Click On Womens_Products Add To Cart Button
+[INFO ] 2024-01-12 16:52:59.403 [main] Utils - Clear The Product Quantity
+[INFO ] 2024-01-12 16:52:59.552 [main] Utils - Entering The Product Quantity
+[INFO ] 2024-01-12 16:53:02.788 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 16:53:04.264 [main] Utils - To Verify Is Selected Collections_Product Added Into The Cart page Correctly
+[INFO ] 2024-01-12 16:53:04.356 [main] Utils - To Verify The Collections_Products Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 16:53:04.418 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:53:04.423 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:53:04.424 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:53:04.424 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:53:04.425 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:53:04.425 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:53:04.425 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:53:05.583 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:53:05.587 [main] Utils - SearchProduct Louching The Application
+[INFO ] 2024-01-12 16:53:18.423 [main] Utils - Click on the Search Icon
+[INFO ] 2024-01-12 16:53:18.703 [main] Utils - Entering The product to The Search TextBox
+[INFO ] 2024-01-12 16:53:18.833 [main] Utils - Click On Serch
+[INFO ] 2024-01-12 16:53:20.651 [main] Utils - Select The SearchProduct
+[INFO ] 2024-01-12 16:53:21.955 [main] Utils - Select The SearchProduct Shoe Size
+[INFO ] 2024-01-12 16:53:22.335 [main] Utils - Clear The SearchProduct Quantity
+[INFO ] 2024-01-12 16:53:22.389 [main] Utils - Entering The SearchProduct Quantity
+[INFO ] 2024-01-12 16:53:22.518 [main] Utils - Click On SearchProduct Add To Cart Button
+[INFO ] 2024-01-12 16:53:25.747 [main] Utils - Click On The Cart Button
+[INFO ] 2024-01-12 16:53:27.301 [main] Utils - To Verify Is Selected Collections_Product Added Into The Cart page Correctly
+[INFO ] 2024-01-12 16:53:27.340 [main] Utils - To Verify The Collections_Products Quantity Is Correct Or Not 
+[INFO ] 2024-01-12 16:53:27.387 [main] Commons - Close The Browser 
+[INFO ] 2024-01-12 16:53:27.397 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-12 16:53:27.398 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-12 16:53:27.398 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-12 16:53:27.399 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-12 16:53:27.399 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-12 16:53:27.399 [main] Utils - Louching The Chrome Browser
+[INFO ] 2024-01-12 16:53:28.848 [main] Utils - User Given Wait StateMent 
+[INFO ] 2024-01-12 16:53:28.853 [main] Utils -  Registration Louching The Application
+[INFO ] 2024-01-12 16:54:00.598 [main] Utils - Click On The Registration Account Logo
+[INFO ] 2024-01-12 16:54:02.761 [main] Utils - click on The Registration Register Link
+[INFO ] 2024-01-12 16:54:04.402 [main] Utils - Entering The Registration FistName
+[INFO ] 2024-01-12 16:54:04.685 [main] Utils - Entering The Registration LastName
+[INFO ] 2024-01-12 16:54:04.798 [main] Utils - Entering The Registration EmailId
+[INFO ] 2024-01-12 16:54:04.891 [main] Utils - Entering The Registration Password
+[INFO ] 2024-01-12 16:54:04.994 [main] Utils - click Onr register Button
+[INFO ] 2024-01-12 16:54:12.194 [main] Utils - Validating The Registration Profile Name 
+[ERROR] 2024-01-12 16:54:18.331 [main] Commons - failed The test CaseVerify User Able To Register The koovs Application
+[INFO ] 2024-01-12 16:54:18.356 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 14:59:27.656 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 14:59:27.671 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 14:59:27.671 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 14:59:27.672 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 14:59:27.672 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 14:59:27.672 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 14:59:27.749 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 14:59:27.779 [main] Utils - Collections_Products Louching The Application
+[ERROR] 2024-01-18 14:59:27.791 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-18 14:59:27.799 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 14:59:27.836 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 14:59:27.838 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 14:59:27.839 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 14:59:27.839 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 14:59:27.840 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 14:59:27.840 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 14:59:27.845 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 14:59:27.885 [main] Utils - Mens_Product Louching The Application
+[ERROR] 2024-01-18 14:59:27.887 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-18 14:59:27.892 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 14:59:27.926 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 14:59:27.927 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 14:59:27.927 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 14:59:27.929 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 14:59:27.929 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 14:59:27.929 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 14:59:27.934 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 14:59:27.937 [main] Utils - WoMens_Products Louching The Application
+[ERROR] 2024-01-18 14:59:27.940 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-18 14:59:27.944 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 14:59:27.966 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 14:59:27.968 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 14:59:27.968 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 14:59:27.970 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 14:59:27.970 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 14:59:27.971 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 14:59:27.976 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 14:59:27.978 [main] Utils - SearchProduct Louching The Application
+[ERROR] 2024-01-18 14:59:27.979 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-18 14:59:27.985 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 14:59:28.000 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 14:59:28.001 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 14:59:28.001 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 14:59:28.002 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 14:59:28.002 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 14:59:28.002 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 14:59:28.006 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 14:59:28.008 [main] Utils -  Registration Louching The Application
+[ERROR] 2024-01-18 14:59:28.010 [main] Commons - failed The test CaseVerify User Able To Register The koovs Application
+[INFO ] 2024-01-18 14:59:28.014 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:00:45.874 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:00:45.888 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:00:45.888 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:00:45.889 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:00:45.889 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:00:45.889 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:00:45.965 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:00:45.999 [main] Utils - Collections_Products Louching The Application
+[ERROR] 2024-01-18 15:00:46.013 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-18 15:00:46.022 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:00:46.058 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:00:46.060 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:00:46.060 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:00:46.061 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:00:46.061 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:00:46.061 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:00:46.066 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:00:46.069 [main] Utils - Mens_Product Louching The Application
+[ERROR] 2024-01-18 15:00:46.070 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-18 15:00:46.076 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:00:46.095 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:00:46.097 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:00:46.097 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:00:46.098 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:00:46.098 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:00:46.098 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:00:46.103 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:00:46.106 [main] Utils - WoMens_Products Louching The Application
+[ERROR] 2024-01-18 15:00:46.107 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-18 15:00:46.112 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:00:46.129 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:00:46.130 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:00:46.130 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:00:46.131 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:00:46.131 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:00:46.131 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:00:46.137 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:00:46.140 [main] Utils - SearchProduct Louching The Application
+[ERROR] 2024-01-18 15:00:46.141 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-18 15:00:46.147 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:00:46.173 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:00:46.175 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:00:46.175 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:00:46.235 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:00:46.236 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:00:46.237 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:00:46.242 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:00:46.247 [main] Utils -  Registration Louching The Application
+[ERROR] 2024-01-18 15:00:46.252 [main] Commons - failed The test CaseVerify User Able To Register The koovs Application
+[INFO ] 2024-01-18 15:00:46.263 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:04:13.458 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:04:13.471 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:04:13.471 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:04:13.472 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:04:13.472 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:04:13.472 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:04:13.522 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:04:13.543 [main] Utils - Collections_Products Louching The Application
+[ERROR] 2024-01-18 15:04:13.553 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-18 15:04:13.561 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:04:13.589 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:04:13.592 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:04:13.592 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:04:13.593 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:04:13.593 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:04:13.593 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:04:13.597 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:04:13.600 [main] Utils - Mens_Product Louching The Application
+[ERROR] 2024-01-18 15:04:13.602 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-18 15:04:13.607 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:04:13.618 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:04:13.620 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:04:13.620 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:04:13.621 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:04:13.621 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:04:13.621 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:04:13.626 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:04:13.629 [main] Utils - WoMens_Products Louching The Application
+[ERROR] 2024-01-18 15:04:13.630 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-18 15:04:13.684 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:04:13.697 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:04:13.698 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:04:13.698 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:04:13.700 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:04:13.700 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:04:13.700 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:04:13.706 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:04:13.708 [main] Utils - SearchProduct Louching The Application
+[ERROR] 2024-01-18 15:04:13.709 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-18 15:04:13.713 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:04:13.727 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2024-01-18 15:04:13.729 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:04:13.729 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:04:13.729 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:04:13.730 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:04:13.730 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:04:13.735 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:04:13.737 [main] Utils -  Registration Louching The Application
+[ERROR] 2024-01-18 15:04:13.739 [main] Commons - failed The test CaseVerify User Able To Register The koovs Application
+[INFO ] 2024-01-18 15:04:13.742 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:09:13.123 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:09:13.130 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:09:13.131 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:09:13.131 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:09:13.131 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:09:13.191 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:09:13.223 [main] Utils - Collections_Products Louching The Application
+[ERROR] 2024-01-18 15:09:13.235 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-18 15:09:13.244 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:09:13.304 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:09:13.304 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:09:13.304 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:09:13.305 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:09:13.305 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:09:13.310 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:09:13.314 [main] Utils - Mens_Product Louching The Application
+[ERROR] 2024-01-18 15:09:13.316 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-18 15:09:13.320 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:09:13.332 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:09:13.332 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:09:13.333 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:09:13.333 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:09:13.333 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:09:13.339 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:09:13.342 [main] Utils - WoMens_Products Louching The Application
+[ERROR] 2024-01-18 15:09:13.343 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-18 15:09:13.350 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:09:13.363 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:09:13.363 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:09:13.364 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:09:13.364 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:09:13.364 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:09:13.369 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:09:13.371 [main] Utils - SearchProduct Louching The Application
+[ERROR] 2024-01-18 15:09:13.373 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-18 15:09:13.379 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:09:13.394 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:09:13.395 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:09:13.395 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:09:13.396 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:09:13.396 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:09:13.401 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:09:13.404 [main] Utils -  Registration Louching The Application
+[ERROR] 2024-01-18 15:09:13.405 [main] Commons - failed The test CaseVerify User Able To Register The koovs Application
+[INFO ] 2024-01-18 15:09:13.410 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:13:56.255 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:13:56.263 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:13:56.264 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:13:56.264 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:13:56.264 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:13:56.317 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:13:56.343 [main] Utils - Collections_Products Louching The Application
+[ERROR] 2024-01-18 15:13:56.355 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Collections Products
+[INFO ] 2024-01-18 15:13:56.365 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:13:56.397 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:13:56.397 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:13:56.398 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:13:56.399 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:13:56.399 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:13:56.404 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:13:56.408 [main] Utils - Mens_Product Louching The Application
+[ERROR] 2024-01-18 15:13:56.410 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Mens Products
+[INFO ] 2024-01-18 15:13:56.415 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:13:56.427 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:13:56.428 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:13:56.428 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:13:56.429 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:13:56.429 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:13:56.434 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:13:56.437 [main] Utils - WoMens_Products Louching The Application
+[ERROR] 2024-01-18 15:13:56.438 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Womens Products
+[INFO ] 2024-01-18 15:13:56.443 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:13:56.458 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:13:56.459 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:13:56.459 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:13:56.460 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:13:56.460 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:13:56.466 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:13:56.468 [main] Utils - SearchProduct Louching The Application
+[ERROR] 2024-01-18 15:13:56.470 [main] Commons - failed The test CaseVerify User Able To AddTo cart The Search Products
+[INFO ] 2024-01-18 15:13:56.475 [main] Commons - Close The Browser 
+[INFO ] 2024-01-18 15:13:56.488 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2024-01-18 15:13:56.488 [main] Utils - Read The Properties File 
+[INFO ] 2024-01-18 15:13:56.489 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2024-01-18 15:13:56.489 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2024-01-18 15:13:56.489 [main] Utils - Louching The Chrome Browser
+[ERROR] 2024-01-18 15:13:56.494 [main] Utils - The driver executable does not exist: C:\Users\admin\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe
+[INFO ] 2024-01-18 15:13:56.496 [main] Utils -  Registration Louching The Application
+[ERROR] 2024-01-18 15:13:56.498 [main] Commons - failed The test CaseVerify User Able To Register The koovs Application
+[INFO ] 2024-01-18 15:13:56.503 [main] Commons - Close The Browser 
